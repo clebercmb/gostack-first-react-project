@@ -1,0 +1,5 @@
+{
+  "workbench.editor.labelFormat": "short",
+  "editor.rulers": [80, 120],
+  "editor.semanticHighlighting.enabled": false
+}
